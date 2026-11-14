@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="media_listener_label">Launcher – música</string>
+    <string name="widget_label">Baterias e clima</string>
+    <string name="widget_description">Baterias do celular, relógio e fones (quando conectados) e o clima</string>
+</resources>
